@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daudawan380
-- 👀 I’m interested in Data Science, Automation, Cyber security, development 
-- 🌱 I’m currently learning python, sql, c++... 
+- 👀 I’m interested in Web Development, Data Science, Automation 
+- 🌱 I’m currently learning Angular, Typescript, JS... 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me daudawan894@gmail.com,awandaud380@gmail.com
 
