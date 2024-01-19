@@ -1,4 +1,4 @@
-👋 Hey there, I'm @daudawan380!
+👋 Hey there, I'm Daud!
 
 🚀 Passionate Angular Developer on a journey to craft seamless web experiences.
 
