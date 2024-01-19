@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development, Data Science, Automation 
 - 🌱 I’m currently learning Angular, Typescript, JS... 
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me daudawan894@gmail.com,awandaud380@gmail.com
+- 📫 How to reach me https://daudsuleman.me/
 
 <!---
 daudawan380/daudawan380 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
